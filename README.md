@@ -25,7 +25,7 @@ If you enjoy or find it useful, please consider giving a star to this project.
 
 ## Author
 
-`Rui F. David`  https://rfdavid.com
+`rfdavid`  https://rfdavid.com
 - LinkedIn: [www.linkedin.com/in/rfdavid](https://www.linkedin.com/in/rfdavid)
 - X: [x.com/ruifdavid](https://x.com/ruifdavid)
 - E-mail: rui at rfdavid dot com
