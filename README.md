@@ -17,8 +17,7 @@ a quick guide for learning and reviewing algorithms and data structures.
 | 2 | [Array](Array.pdf) | Basic of Arrays |
 | 3 | [String](String.pdf) | String-related problems |
 | 4 | [Binary](Binary.pdf) | Binary and Negabinary operations |
-| 5 | [Graph (DFS)](Graph%20%28DFS%29.pdf) | Depth First Search problems |
-| 6 | [Graph (BFS)](Graph%20%28BFS%29.pdf) | Breadth First Search problems |
+| 5 | [Graph](Graph.pdf) | BFS/DFS Graph problems |
 | 7 | [Shortest Path](Shortest%20Path.pdf) | Algorithms related to shortest-path problems |
 | 8 | [Tree](Tree.pdf) | Tree Traversals |
 | 9 | [Linked List](Linked%20List.pdf) | Linked List problems |
